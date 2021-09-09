@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585664451679",
+    "firebase_url": "https://bslcontacts.firebaseio.com",
+    "project_id": "bslcontacts",
+    "storage_bucket": "bslcontacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585664451679:android:7cfae2433b6f6ca3",
+        "android_client_info": {
+          "package_name": "com.example.bslcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585664451679-am8nfnn6tjhve1npvedsfg0cobeq0d34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bslcontacts",
+            "certificate_hash": "a920a13b2d01bfaf39b72a5d819f59e00eecff7c"
+          }
+        },
+        {
+          "client_id": "585664451679-ru02q72hp1tgv926s49modumddilodo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6cWGkYKg47J9_jWa9-CTM_ZMcBKeAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585664451679-ru02q72hp1tgv926s49modumddilodo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
